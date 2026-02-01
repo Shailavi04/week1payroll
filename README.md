@@ -44,7 +44,6 @@ The main goal for Week 1 was to:
 
 The project follows a unified structure with clear separation of concerns:
 
-```txt
 week1payroll/
 ├─ frontend/
 │  ├─ assets/
