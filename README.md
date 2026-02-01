@@ -44,6 +44,7 @@ The main goal for Week 1 was to:
 
 The project follows a unified structure with clear separation of concerns:
 
+```txt
 week1payroll/
 ├─ frontend/
 │  ├─ assets/
@@ -78,7 +79,7 @@ week1payroll/
 │
 ├─ .gitignore
 └─ README.md
-
+```
 
 
 
@@ -126,6 +127,8 @@ The backend follows a layered architecture to ensure clean separation
 of concerns and maintainability.
 
 Planned Folder Structure:
+```txt
+
 backend/
  ├ routes/
  ├ controllers/
@@ -133,6 +136,7 @@ backend/
  ├ models/
  ├ middlewares/
  └ config/
+```
 
 ### Responsibility Breakdown
 - Routes define API endpoints and request paths.
